@@ -1,5 +1,5 @@
-#Application_samples
-A repository of sample programs made during school. This is a private file used to showcase some coding snippet examples aquired while earning an Associates Degree in Computer Science. 
+#MS_Samples
+A repository of sample programs made during my learning journey. This is a private file used to showcase some coding snippet examples aquired while earning an Associates Degree in Computer Science. 
 
 # School Project 1: Directory of Courses
 # Project Description 
