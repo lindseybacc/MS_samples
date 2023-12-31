@@ -10,4 +10,5 @@ The Directory of Courses requires the main.java, create_directory.java, and dire
 # Project Description 
 
 A sample of a project to simulate an ATM machine. Program allows user to create an account and input checking and/or savings information. Also allows returning users to update their accounts. Information is stored on a simple database created in mySQL.
-All functionalities of an ATM machine are present, such as withdraw, deposit, transfer and check balances.
+All functionalities of an ATM machine are present, such as withdraw, deposit, transfer and check balances. 
+User interface scenes were created, and controllers were written for each "scene" of the atm. 
